@@ -1,2 +1,2 @@
 #!/bin/bash
-WORDFILE = "/usr/share/dict"
+shuf -n 1 /usr/share/dict/words
